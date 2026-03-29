@@ -1,0 +1,9 @@
+{
+  "prompt": "generate an image of single frame of black grapes, close to 40 in a bunch, with 34 of them in normal grape size, 4 of them with a size of five times larger, 2 of them 10 times smaller, hands plucking out these larger and smaller grapes. the background could be a grape farm, but need not be very clear, the size difference between the normal, smaller and bigger should be clearly visible. Ensure the image should be styled in Japanese Edo-period woodblock prints / ukiyo-e (1603–1868) type.",
+  "model": "Ideogram 3.0",
+  "concept": "the name of the concept you chose — Outlier detection",
+  "tradition_name": "Japanese Edo-period woodblock prints / ukiyo-e",
+  "tradition_period": "1603-1868s",
+  "tradition_approach": "grape picking is a traditional activity from long time, the outlier picking hands and the grapes and background are styled from that era",
+  "publish_email": true
+}
