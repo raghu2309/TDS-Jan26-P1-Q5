@@ -1,0 +1,7 @@
+{
+  "prompt": "Minimalist flat illustration, clean white background. Eight human figures with very similar appearance — same height, similar build, same skin tone, all wearing glasses and similar neutral clothing. On the left side, a group of seven people stands together. Within this group, six individuals are positioned very close to each other forming a tight cluster, while one person stands slightly separated but still clearly part of the group. On the right side, a single eighth person stands alone, facing toward the group, with a subtle thinking or observing posture (slight head tilt or hand near chin). The composition should strongly emphasize the majority cluster of six through spacing and proximity, making it visually dominant. The lone observer should be visually aligned toward the majority cluster rather than the isolated individual. No text, no labels, no symbols, no typography. Simple, balanced layout, modern infographic style, soft shadows, high clarity, no background clutter",
+  "model": "Ideogram 3.0",
+  "paradox": "The Ecological Fallacy",
+  "visual_logic": "The viewer infers the lone individual belongs to the majority group, wrongly applying group characteristics to an individual—an ecological fallacy",
+  "publish_email": true
+}
