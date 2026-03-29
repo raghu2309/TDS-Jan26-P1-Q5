@@ -1,0 +1,8 @@
+{
+  "prompt": "A clean, realistic illustration on a simple light background, no text, no symbols, no numbers, no infographic elements, showing four small groups of people, each group representing a different country: India, Japan, USA, and Nigeria, they should be distinguished by their country native features, natural ethnic and cultural appearance appropriate to their country. Have clear gap between the four country groups . Each group contains exactly three members (male or female to represent the country) and the age categories: a young child (under 15, school uniform), a working-age adult (middle-aged, wearing work attire like helmet or job-related clothing), and an elderly person (above 70, slightly aged posture). The height of the member should vary proportionally to this data - for each country/ category - working/elderly/young in billions - india - 1/.11/.35, japan - .072/.037/.014,usa - 0.2/.06/.06, nigeria - .14/.1/.01. The differences in height should be clearly noticeable but still realistic. ",
+  "model": "Gemini 3.1 w Nano Banana 2.0",
+  "dataset_name": "Population by young, working age and older groups",
+  "dataset_url": "https://ourworldindata.org/age-structure#all-charts",
+  "insight": "the image provides a country wise breakup for india, japan, US, nigeria depicting the population by age category - young, working and older categories", 
+  "publish_email": true
+}
