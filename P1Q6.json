@@ -1,0 +1,7 @@
+{
+  "prompt": "generate an image of single frame of black grapes, close to 40 in a bunch, with 34 of them in normal grape size, 4 of them with a size of five times larger, 2 of them 10 times smaller, hands plucking out these larger and smaller grapes. the background could be a grape farm, but need not be very clear, the size difference between the normal, smaller and bigger should be clearly visible. ",
+  "model": "Ideogram 3.0",
+  "concept": "the name of the concept you chose — Outlier detection",
+  "metaphor": "a grape bunch with some grapes that are much larger and smaller than the rest, and hands plucking out these larger and smaller grapes to eliminate the outliers before they go to market",
+  "publish_email": true
+}
